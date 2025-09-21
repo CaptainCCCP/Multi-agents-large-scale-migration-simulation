@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="IwUh47S9pi9yi1Xkn62U-1" value="&lt;a href=&quot;https://arxiv.org/abs/2402.11838&quot;&gt;UniST&lt;/a&gt;, 2024, FIB-Lab&lt;div&gt;Base model for spatial temporal tasks&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="80" width="210" height="90" as="geometry" />
+          <mxGeometry x="30" y="260" width="210" height="90" as="geometry" />
         </mxCell>
         <mxCell id="IwUh47S9pi9yi1Xkn62U-2" value="&lt;p style=&quot;box-sizing: border-box; margin-top: 1rem; margin-bottom: 1.5rem; font-weight: 400; line-height: 1.2; font-family: rival-sans; text-wrap: balance; max-inline-size: 52rem; background-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;a href=&quot;https://arxiv.org/html/2401.14192v2#S1.F1&quot;&gt;How Can Large Language Models Understand Spatial-Temporal Data?&lt;/a&gt;, 2024,&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; white-space-collapse: preserve; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Dalian Univ. of Technology&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 1rem; margin-bottom: 1.5rem; font-weight: 400; line-height: 1.2; font-family: rival-sans; text-wrap: balance; max-inline-size: 52rem; background-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; white-space-collapse: preserve; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Introduced 3 ways of applying LLM in Spatial Temporal Tasks&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-390" y="270" width="260" height="150" as="geometry" />
@@ -33,6 +33,9 @@
         </mxCell>
         <mxCell id="O30DLIcvTpoesH7AUgV4-1" value="&lt;span id=&quot;docs-internal-guid-f6d5f99a-7fff-edce-4877-a3812eaec647&quot;&gt;&lt;p style=&quot;line-height:1.2;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Plus Jakarta Sans&amp;quot;, sans-serif; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;a href=&quot;https://ieeexplore.ieee.org/document/10827542&quot;&gt;TM-LLM: Token-Motion Embedding Fusion for Large Language Model-Based Vessel Trajectory Prediction&lt;/a&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;a href=&quot;https://ieeexplore.ieee.org/document/10827542&quot;&gt;&lt;br&gt;&lt;/a&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="325" y="280" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="QYRWXqmXOQIN99nUWpbV-1" value="UnitFlow, 2024, FIB-Lab&lt;div&gt;Base model for spatial temporal tasks&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="360" width="210" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
